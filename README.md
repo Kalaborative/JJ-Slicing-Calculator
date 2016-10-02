@@ -9,6 +9,6 @@ A Python program that allows the user to generate information regarding what the
  - User-specific Slicing times :bread:
 
 ## Usage and Documentation
-You can find documentation at our readthedocs page!
-
+Readthedocs page coming in the future.
+Current information and documentation found [here](https://michael-davis-3pcn.squarespace.com).
 ###### Made with :heart: by Drew :innocent:
